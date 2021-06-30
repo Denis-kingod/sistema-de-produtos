@@ -1,0 +1,16 @@
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\bin\Debug\net5.0\Exercicio-Sistema de produtos.exe
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\bin\Debug\net5.0\Exercicio-Sistema de produtos.deps.json
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\bin\Debug\net5.0\Exercicio-Sistema de produtos.runtimeconfig.json
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\bin\Debug\net5.0\Exercicio-Sistema de produtos.runtimeconfig.dev.json
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\bin\Debug\net5.0\Exercicio-Sistema de produtos.dll
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\bin\Debug\net5.0\ref\Exercicio-Sistema de produtos.dll
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\bin\Debug\net5.0\Exercicio-Sistema de produtos.pdb
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\obj\Debug\net5.0\Exercicio-Sistema de produtos.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\obj\Debug\net5.0\Exercicio-Sistema de produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\obj\Debug\net5.0\Exercicio-Sistema de produtos.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\obj\Debug\net5.0\Exercicio-Sistema de produtos.AssemblyInfo.cs
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\obj\Debug\net5.0\Exercicio-Sistema de produtos.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\obj\Debug\net5.0\Exercicio-Sistema de produtos.dll
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\obj\Debug\net5.0\ref\Exercicio-Sistema de produtos.dll
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\obj\Debug\net5.0\Exercicio-Sistema de produtos.pdb
+C:\Users\denis\OneDrive\Área de Trabalho\Exercicio-Sistema de produtos\obj\Debug\net5.0\Exercicio-Sistema de produtos.genruntimeconfig.cache
